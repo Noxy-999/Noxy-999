@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasenjit Majumder
 
-<!--
-**Noxy-999/Noxy-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech CSE Student | 💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **DSA** and **JavaScript**  
+- 🎯 Interested in **Full-Stack Development** and **AI & Machine Learning**  
+- 🛠️ Currently working on my **Portfolio Website**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+- **Languages**: C, C++, Python, HTML, CSS, JavaScript  
+- **Tools**: Git, GitHub, VS Code  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Noxy-999&color=blue)
